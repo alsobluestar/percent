@@ -1,0 +1,50 @@
+body {
+    font-family: monospace;
+    background-color: hsla(281, 0%, 15%, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+#clock {
+    border-style: solid;
+    border-width: 3px;
+    border-color: hsla(246, 54%, 14%, 1);
+    text-align: center;
+    background-color: hsla(235, 41%, 52%, 1);
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    
+}
+
+
+
+#progress .card {
+    border-style: solid;
+    border-width: 3px;
+    border-color: hsla(246, 54%, 14%, 1);
+    text-align: center;
+    margin-top: 1rem;
+    background-color: hsla(318, 30%, 50%, 1);
+    padding: 2rem;
+    border-radius: 0.8rem;
+
+}
+
+#progress .card .text {
+    font-weight: bold;
+    font-size: 1.4rem;
+
+
+}
+
+#progress .card .percent {
+    font-weight: 800;
+    font-size: 1.9rem;
+    margin-top: 0.7rem;
+
+}
