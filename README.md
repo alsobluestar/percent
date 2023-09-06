@@ -2,4 +2,4 @@
 
 
 
-A random project like a shitposting 
+Random project like a shitposting 
